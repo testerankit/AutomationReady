@@ -1,6 +1,6 @@
-package Oct.ex_151024;
+package Oct.ex_151024_Operators1;
 
-public class Lab003 {
+public class Lab003_Increament_Decreament_Operator {
     public static void main(String[] args) {
         int a = 10;
         System.out.println(++a + a + ++a + a++);

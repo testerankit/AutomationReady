@@ -1,6 +1,6 @@
-package Oct.ex_161024;
+package Oct.ex_161024_Operator2;
 
-public class Lab005 {
+public class Lab005_Ternary_Operator {
     public static void main(String[] args) {
         //Find out the largest number
         int a = 18;
